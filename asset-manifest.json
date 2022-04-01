@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Biblioteca-San-Agustin/static/css/main.4cdd63ef.css",
+    "main.js": "/Biblioteca-San-Agustin/static/js/main.9e8f2f94.js",
+    "static/js/787.662288e6.chunk.js": "/Biblioteca-San-Agustin/static/js/787.662288e6.chunk.js",
+    "static/media/tuat.png": "/Biblioteca-San-Agustin/static/media/tuat.c70d9c7b69034013fccb.png",
+    "static/media/boxicons.svg": "/Biblioteca-San-Agustin/static/media/boxicons.0153fb5e5b5f697b4bcc.svg",
+    "static/media/boxicons.eot": "/Biblioteca-San-Agustin/static/media/boxicons.21f7c5dd64d88e1fc666.eot",
+    "static/media/boxicons.woff": "/Biblioteca-San-Agustin/static/media/boxicons.02aa967c5bfb9489501a.woff",
+    "static/media/boxicons.ttf": "/Biblioteca-San-Agustin/static/media/boxicons.ad0ddae357213656b3e6.ttf",
+    "static/media/boxicons.woff2": "/Biblioteca-San-Agustin/static/media/boxicons.0335b427967c56248ea6.woff2",
+    "static/media/logo.png": "/Biblioteca-San-Agustin/static/media/logo.833b2c5a2cd4eeaa212c.png",
+    "index.html": "/Biblioteca-San-Agustin/index.html",
+    "main.4cdd63ef.css.map": "/Biblioteca-San-Agustin/static/css/main.4cdd63ef.css.map",
+    "main.9e8f2f94.js.map": "/Biblioteca-San-Agustin/static/js/main.9e8f2f94.js.map",
+    "787.662288e6.chunk.js.map": "/Biblioteca-San-Agustin/static/js/787.662288e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cdd63ef.css",
+    "static/js/main.9e8f2f94.js"
+  ]
+}
